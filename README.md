@@ -1,16 +1,21 @@
-### Hi there 👋
+### Action Matching
 
-<!--
-**action-matching/action-matching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CIFAR-10 colorization
 
-Here are some ideas to get you started:
+<img src="https://github.com/action-matching/action-matching/blob/main/am_cifar_color.gif" alt="drawing" width="400"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CelebA superresolution
+
+<img src="https://github.com/action-matching/action-matching/blob/main/am_celeba_superres.gif" alt="drawing" width="400"/>
+
+CelebA inpainting
+
+<img src="https://github.com/action-matching/action-matching/blob/main/am_celeba_inpaint.gif" alt="drawing" width="400"/>
+
+CelebA generation on torus
+
+<img src="https://github.com/action-matching/action-matching/blob/main/am_celeba_torus.gif" alt="drawing" width="400"/>
+
+CelebA generation via diffusion
+
+<img src="https://github.com/action-matching/action-matching/blob/main/am_celeba_diffusion.gif" alt="drawing" width="400"/>
