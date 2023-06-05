@@ -1,6 +1,4 @@
-## Action Matching
-
-### Schrödinger Equation Simulation
+## Action Matching for Schrödinger Equation Simulation
 
 We demonstrate that Action Matching can learn a wide range of stochastic dynamics by applying it to the dynamics of a quantum system evolving according to the Schrödinger equation. The Schrödinger equation describes the evolution of many quantum systems, and in particular, it describes the physics of molecular systems. Here, for the ground truth dynamics, we take the dynamics of an excited state of the hydrogen atom, which is described by the following equation
 
