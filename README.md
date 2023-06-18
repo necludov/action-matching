@@ -8,16 +8,16 @@ The function $\psi(x,t): \mathbb{R}^3\times \mathbb{R} \to \mathbb{C}$ is called
 In particular, it defines the distribution of the coordinates $x$ by defining its density as $q_t(x) := |\psi(x,t)|^2$, which dynamics is defined by the dynamics of $\psi(x,t)$.
 Below we demonstrate the ground truth dynamics where we project the density $q_t(x)$ on three different planes.
 
-<img src="https://github.com/action-matching/action-matching/blob/main/notebooks/gifs/dynamics_densities.gif" alt="drawing" width="800"/>
+<img src="https://github.com/necludov/action-matching/blob/main/notebooks/gifs/dynamics_densities.gif" alt="drawing" width="800"/>
 
 In what follows we illustrate the histograms for the learned dynamics. Since the original distribution is in $\mathbb{R}^3$ we project the samples onto three different planes and draw 2d-histograms. 
 The top row for every model corresponds to the ground truth dynamics (the training data), and the bottom rows corresspond to the learned models.
 
 #### Action Matching (AM) results visualization
-<img src="https://github.com/action-matching/action-matching/blob/main/notebooks/gifs/am_results.gif" alt="drawing" width="800"/>
+<img src="https://github.com/necludov/action-matching/blob/main/notebooks/gifs/am_results.gif" alt="drawing" width="800"/>
 
 #### Score Matching (SM) results visualization
-<img src="https://github.com/action-matching/action-matching/blob/main/notebooks/gifs/sm_results.gif" alt="drawing" width="800"/>
+<img src="https://github.com/necludov/action-matching/blob/main/notebooks/gifs/sm_results.gif" alt="drawing" width="800"/>
 
 #### Sliced Score Matching (SSM) results visualization
-<img src="https://github.com/action-matching/action-matching/blob/main/notebooks/gifs/ssm_results.gif" alt="drawing" width="800"/>
+<img src="https://github.com/necludov/action-matching/blob/main/notebooks/gifs/ssm_results.gif" alt="drawing" width="800"/>
